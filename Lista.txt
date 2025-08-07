@@ -5,5 +5,10 @@
 - Mamao
 - Pessego
 - Mexerica
+<<<<<<< HEAD
 - teste
 - Isadora doida
+=======
+- caroço
+- Matheus anão
+>>>>>>> 8a24df4c75c3d4db94763506bea77f0828cf20da
